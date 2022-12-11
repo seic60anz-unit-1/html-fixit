@@ -1,0 +1,5 @@
+1. The title tag is an HTML code tag that allows you to give a web page a title.
+
+2. Images should have alt tags because it is the written copy that appears in place of an image on a webpage if the image fails to load on a user's screen. This text helps screen-reading tools describe images to visually impaired readers and allows search engines to better crawl and rank your website.
+
+3. The <body> element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc. The <head> element is a container for all the head elements. The <head> element must include a title for the document, and can include scripts, styles, meta information, and more.
