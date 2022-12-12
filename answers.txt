@@ -1,0 +1,43 @@
+//Validation errors
+
+1.html:
+No lang tag <html lang="en">
+No <!DOCTYPE html> tag included
+Lines 3, 5 and 6 do not need to include / next to the closing >
+
+
+2.html:
+No lang tag <html lang="en">
+Head and meta elements are missing that goe before the body<head><meta><meta><meta></head>
+Title is missing from the <head> tag
+
+
+
+3.html:
+No lang tag <html lang="en">
+head missing meta elements
+Do not require the closing doc tag </!DOCTYPE html>
+img src has incorrect closing tag /> this should be > with no space
+Img was only a picture so needed to be classified as null to show its only visual
+
+
+4.html:
+No lang tag
+No meta tags
+No closing tag for title
+
+//Additional questions
+1.Title tag = provides name of page that appears in the webpage tag.
+2.Images must have text alternatives that describe the information or function represented by them
+3.Body encapsulates the content of the page / Head conatins meta elements, i.e. information about the contents
+
+
+Bare Minimum boilerplate
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+  </head>
+  <body>
+  </body>
+</html>
