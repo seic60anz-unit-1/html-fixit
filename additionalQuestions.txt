@@ -1,0 +1,7 @@
+1. The title tag puts a heading at the tab of a page.
+
+2. An img tag needs a src attribute to link it to the image file/ image link and it also needs an alt attribute
+for screenreaders to understand what the image is.
+
+3. The head tag contains metadata about the page whereas the body tag contains all of the information that will
+be displayed on the page.
