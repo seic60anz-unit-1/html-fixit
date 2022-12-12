@@ -1,0 +1,12 @@
+1. What does the `title` tag do?
+
+Describes the document and appears as the text in the browser tab
+
+2. What information do images need, and why?
+
+You need the image file, file format and idealy text describting it for the alt tab
+
+3. What's the difference between `head` and `body`?
+
+The head tag isn't rendered by the browser.
+Useful for scripts and what not. While the body tag is (i.e user can see it.)
