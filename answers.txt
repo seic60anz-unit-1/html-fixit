@@ -1,0 +1,30 @@
+HTML 1
+ - DOCTYPE
+ - HTML lang
+ - Uncecessary backslashes
+
+HTML 2
+ - HTML lang
+ - Head section
+ - Title tag
+
+ HTML 3
+  - lang
+  - Img needs alt attribute
+  - trailing slash
+  - Garbage closing HTML tag
+
+  HTML 4
+  - lang
+  - close title tag
+
+  Additional questions
+What does the title tag do? 
+    The title tag defines the title of the document. The text shows in the tab of the webpage.
+
+What information do images need, and why?
+    Images need a source attribute & alt attribute. The source att is the path to the image and the alt att is text that shows if the image can't be shown.
+
+What's the difference between head and body? 
+
+    The head section shows metadata that the user can't see. The body section is everything that is visible on the webpage.
