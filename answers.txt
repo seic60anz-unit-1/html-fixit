@@ -1,0 +1,10 @@
+### Additional Questions
+
+1. What does the title tag do?
+Shows the title of the website on the tag.
+
+2. What information do images need, and why?
+The image needs a source reference because that is where we source the image. Also ult attribute is needed because when the image is not showing up (due to internet or other issue), alt info may indicate what the image is briefly.
+
+3. What's the difference between head and body?
+Head refers to the infomation on the website tag (tag name and icon etc.) and body covers all information on the actual web page.
